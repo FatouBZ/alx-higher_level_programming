@@ -1,3 +1,3 @@
-#!/usr/bin/python3
+emacs 3-print_number.py
 number = 98
-print(f"{number} Battery street")
+print(f"{number:d} Battery street")
